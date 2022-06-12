@@ -1,0 +1,29 @@
+.header{
+    margin:0px;
+    padding: 0px;
+    background-color: #36366b;
+    position: fixed;
+    align-items: center;
+    z-index: 1;
+} 
+
+.navbar-text{
+    display: flex;
+   
+    
+}
+.navbar-top{
+    color: green;
+    
+}
+.body{
+    background-color: #8492A6;
+}
+.name{
+    font-size: x-large;
+    padding-left: 10px;
+    font-family: "Nunito", sans-serif;
+    font-weight: 700;
+    color:  #e6f2ff;
+}
+
